@@ -4,7 +4,8 @@
 
 ![Generations](progress_pics/4x5.png) 
 
-![Video Progress](progress_pics/2024-11-24 12-57-30.mkv) 
+![Training Animation](progress_pic/animation.gif)
+
 
 ## 📖 Overview
 
@@ -64,7 +65,7 @@ Both models use custom weight initialization based on the DCGAN paper.
 
 - **It Even Fools ChatGPT-4o!**
 
-  ![Real VS Fake](progress_pics/fools_gpt.pdf)
+  ![Real VS Fake](progress_pics/fools_gpt-1.png)
 ---
 
 ## ⚡ Challenges and Solutions
