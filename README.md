@@ -4,12 +4,11 @@
 
 ![Generations](progress_pics/4x5.png) 
 
-![Training Animation](progress_pic/animation.gif)
-
-
 ## 📖 Overview
 
 This project utilizes a DCGAN to create realistic Pokémon cards, focusing on traditional designs from the Pokémon Trading Card Game. The model generates visually convincing cards by training on a dataset of over 11,000 card images spanning all generations, excluding full-art types like EX and GX to maintain a focus on the classic card format.
+
+![Training Animation](progress_pic/train_animation.gif)
 
 ---
 
