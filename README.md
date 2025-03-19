@@ -67,9 +67,7 @@ Both models use custom weight initialization based on the DCGAN paper.
   
   ![Real VS Fake](progress_pics/real_vs_fake.png)
 
-- **It Even Fools ChatGPT-4o!**
 
-  ![Real VS Fake](progress_pics/fools_gpt-1.png)
 ---
 
 ## ⚡ Challenges and Solutions
